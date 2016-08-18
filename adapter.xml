@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<factory name="Mantis Adapter Factory">com.hp.qc.synchronizer.adapters.mantisadapter.MantisAdapterFactory</factory>

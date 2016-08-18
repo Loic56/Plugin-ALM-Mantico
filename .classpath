@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
+	<classpathentry kind="lib" path="C:/Program Files/workspace/jars/adapter-spi.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/workspace/jars/axis-1.4.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/workspace/jars/axis-jaxrpc-1.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/workspace/jars/commons-discovery-0.5.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/workspace/jars/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/workspace/jars/junit.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/workspace/jars/mantis-axis-soap-client-1.2.19.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/workspace/jars/xercesImpl.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/workspace/jars/apache-commons-lang.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/workspace/jars/commons-io-2.5.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/workspace/jars/org-apache-commons-codec.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
